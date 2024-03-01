@@ -6,6 +6,7 @@
 }
 
 h2 {
+    float: center;
     color: brown;
     font-family: 'Franklin Gothic Medium';
     font-size: 40px;
@@ -13,6 +14,7 @@ h2 {
 }
 
 p {
+    float: center;
     color: blue;
     font-family: 'Times New Roman';
     font-size: 20px;
