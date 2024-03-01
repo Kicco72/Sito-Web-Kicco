@@ -9,6 +9,7 @@ h2 {
     color: brown;
     font-family: 'Franklin Gothic Medium';
     font-size: 40px;
+    text-align: center;
 }
 
 p {
@@ -28,9 +29,9 @@ body {
 
 #foto {
     float: center;
-    color: chartreuse;
     font-family: 'Geneva';
     font-size: 20px;
+    text-align: center;
 }
 
 #fondo {
