@@ -1,0 +1,23 @@
+.titolo {
+    color: blue;
+    font-family: fantasy;
+    font-size: 60px;
+    text-align: center;
+}
+
+body {
+    background-color: darkseagreen;
+}
+
+#paragrafo {
+    float: left;
+}
+
+#foto {
+    float: right;
+}
+
+#fondo {
+    position: fixed;
+    bottom: 50px;
+}
